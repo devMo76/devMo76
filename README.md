@@ -81,20 +81,45 @@ A full e-commerce store for a premium chocolate shop: product browsing, cart, ch
 
 🔗 [Repo](https://github.com/devMo76/Chocolux-Website)
 
-## Also on my profile
+## GitHub at a glance
+
+<p align="center">
+  <a href="https://github.com/devMo76/DHL_Automation_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devMo76&repo=DHL_Automation_Project&theme=tokyonight&hide_border=true" alt="DHL" /></a>
+  <a href="https://github.com/devMo76/UTM-Room-Reservation-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devMo76&repo=UTM-Room-Reservation-System&theme=tokyonight&hide_border=true" alt="UTM" /></a>
+  <a href="https://github.com/devMo76/Chocolux-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devMo76&repo=Chocolux-Website&theme=tokyonight&hide_border=true" alt="ChocoLuxe" /></a>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMo76&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devMo76&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devMo76&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="100%" />
+</p>
+
+<details>
+<summary><b>Also on my profile</b></summary>
+
 - **GREatTour:** a Next.js prototype for a location-aware tour guide, built for an HCI course.
 - **Place Picker** and **Project Manager:** smaller React apps where I practised state, modals, geolocation, and Tailwind.
+
+</details>
 
 ## What I'm working on now
 - 🎤 **PitchPro:** I'm a full-stack Software Engineer on a team building an AI bot that helps people improve their pitching skills. My stack: Next.js and Firebase on the frontend, Python and ChromaDB on the backend.
 - 🧠 **AI agents in real systems:** I took Anthropic's [Building with the Claude API](https://academy.claude.com/courses/building-with-the-claude-api) course and I'm applying it to automation, MCP, and RAG.
 - 🧪 **Raising the bar on my own code:** adding tests and tidying older repos.
 
-## Beyond code
+<details open>
+<summary><b>Beyond code</b></summary>
+
 - 🏆 **Cursor × Anthropic Hackathon (Dec 2025):** built a prototype with Cursor AI that turns LinkedIn text posts into interactive video content.
 - 🎙️ **Public speaking:** gave a speech to 2,000+ people, including a government minister, at a national ceremony in Saudi Arabia. It's why I care about the pitching problem at PitchPro.
 - 👥 **Leadership:** team lead on multiple university software projects (planning, delegating, shipping), led a volunteer team at ITEX 2025, and a founding member of the Arabic Society at UTM.
 - 📚 **Teaching:** six years of tutoring, which taught me to explain things clearly and patiently.
+
+</details>
 
 ## Let's talk
 I'm open to remote software engineering roles and small freelance projects.
@@ -102,3 +127,5 @@ I'm open to remote software engineering roles and small freelance projects.
 📧 mohamed.elmashharawi@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-elmashharawi-9a83b0363)
 📄 [My CV (PDF)](https://drive.google.com/file/d/1YQ59uxAyhb5qaR1sJdM4moxlVGcUo0Eh/view?usp=sharing)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
