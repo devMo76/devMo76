@@ -91,7 +91,6 @@ A full e-commerce store for a premium chocolate shop: product browsing, cart, ch
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMo76&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devMo76&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" alt="GitHub stats" />
 </p>
 
 <p align="center">
