@@ -27,10 +27,6 @@ Logistics information usually lives in messy documents and notes. This app turns
 
 What I'm happiest with: the database security. Access is enforced with Postgres Row Level Security policies (including an admin role) rather than just hiding buttons in the UI.
 
-| | | |
-|---|---|---|
-| ![Screenshot 1](https://raw.githubusercontent.com/devMo76/DHL_Automation_Project/main/docs/screenshots/01.png) | ![Screenshot 2](https://raw.githubusercontent.com/devMo76/DHL_Automation_Project/main/docs/screenshots/02.png) | ![Screenshot 3](https://raw.githubusercontent.com/devMo76/DHL_Automation_Project/main/docs/screenshots/03.png) |
-
 🔗 [Repo](https://github.com/devMo76/DHL_Automation_Project)
 
 ### 🏫 UTM Room Reservation System (CSR Scheduling Assistant)
