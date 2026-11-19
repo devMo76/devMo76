@@ -20,6 +20,12 @@ I'm a software engineering student and full-stack developer who likes building t
 📍 Kuala Lumpur, Malaysia · 🕒 Malaysia Time (UTC+8) · 🗣️ Arabic (native), English (fluent)
 🎓 B.Sc. Computer Science (Software Engineering), UTM–MJIIT
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devMo76/devMo76/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devMo76/devMo76/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/devMo76/devMo76/output/github-snake.svg" />
+</picture>
+
 ## What I work with
 
 <p>
